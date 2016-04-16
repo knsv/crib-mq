@@ -1,0 +1,19 @@
+{
+  "name": "crib-mq",
+  "version": "0.1.0",
+  "description": "Message buss used between the services in the crib home automation system.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/knsv/crib-mq.git"
+  },
+  "author": "",
+  "license": "GPL",
+  "bugs": {
+    "url": "https://github.com/knsv/crib-mq/issues"
+  },
+  "homepage": "https://github.com/knsv/crib-mq#readme"
+}

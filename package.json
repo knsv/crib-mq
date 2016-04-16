@@ -10,8 +10,8 @@
     "type": "git",
     "url": "git+https://github.com/knsv/crib-mq.git"
   },
-  "author": "",
-  "license": "GPL",
+  "author": "Knut Sveidqvist",
+  "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/knsv/crib-mq/issues"
   },

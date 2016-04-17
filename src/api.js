@@ -4,7 +4,7 @@
 
 module.exports.create = function(port){
 
-    console.log('Starting message queue');
+    console.log('Creating message queue');
     var io         = require('socket.io')();
     var middleware = require('socketio-wildcard')();
 
